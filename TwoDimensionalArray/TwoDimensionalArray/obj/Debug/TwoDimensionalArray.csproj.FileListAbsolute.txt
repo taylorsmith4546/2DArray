@@ -1,0 +1,6 @@
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+C:\Dev\Code Challenges\C#\TwoDimensionalArray\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb
